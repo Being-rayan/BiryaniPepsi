@@ -118,4 +118,4 @@ Rather than functioning like a recipe website, the project aims to become a sear
 ### Rayan Qamar
 ### Zayan Hussain
 
-*Late-night code brewed with biryani energy.*
+
